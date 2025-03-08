@@ -62,7 +62,7 @@ Me chamo João Victor, tenho 18 anos e sou natural de São Paulo. Concluí o ens
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
@@ -70,8 +70,9 @@ Me chamo João Victor, tenho 18 anos e sou natural de São Paulo. Concluí o ens
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
